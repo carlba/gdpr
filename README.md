@@ -8,8 +8,8 @@ If you want a site added make an issue or a Pull Request.
 ## Sites
 
 ### Dagens Nyheter
-Vänligen identifiera dig genom att logga in på DN.se/gdpr och välj "glöm bort mig" för att få dina 
-uppgifter raderade.
+Vänligen identifiera dig genom att logga in på [DN.se/gdpr](http://DN.se/gdpr) och välj 
+"glöm bort mig" för att få dina uppgifter raderade.
 
 ### CMORE
 Om du följer länken www.mydata.bonnierbroadcasting.com så hittar du all information där om hur du 
