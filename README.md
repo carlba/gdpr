@@ -3,7 +3,7 @@ Instructions on how to deregister from various sites in light of GDPR. These ins
 gathered from email conversations with the support organizations of the respective company (Mostly 
 swedish sites to begin with) 
 
-If you want a site added make an issue or a Pull Request.
+If you want a site added make an issue or a Pull request.
 
 ## Sites
 
