@@ -18,3 +18,7 @@ går tillväga för att radera ditt konto. :-)
   https://www.sfanytime.com/sv 
 * klicka på "Mitt konto" 
 * välja fliken "Hantera" sen "Ta bort konto".
+
+### Expressen
+Vänligen logga in på https://id.expressen.se/ under "inställningar" kan du välja att ta bort ditt 
+konto, och därmed raderas dina uppgifter från våra system samt register.
